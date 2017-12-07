@@ -1,0 +1,16 @@
+
+
+.list p {
+    font-family: "Ariel", Times, serif;
+}
+
+
+.list ul {
+	list-style-type: disc;
+	list-style-image: url("");
+}
+
+.list li {
+	padding: 0px;
+	margin: 0px;
+}
